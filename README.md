@@ -1,12 +1,12 @@
-# Accidents by Precinct (Brooklyn)
+## Accidents by Precinct (Brooklyn)
 
 Number of accidents with contributing factors reported
 
-# Data Source
+## Data Source
 
 NYPD Data hosted on [CivicData.io](http://www.civicdata.io/en/dataset/nypd-motor-vehicle-collision-data)
 
-# Built with
+## Built with
 
 * [Boostrap](http://getbootstrap.com/): Makes building great looking websites easy.
 * [jQuery](http://jquery.com/): Still te awesomest JavaScript framework.
